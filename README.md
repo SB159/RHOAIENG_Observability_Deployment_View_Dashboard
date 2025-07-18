@@ -16,8 +16,6 @@ Observability dashboard providing a high-level overview of VLLM model deployment
 
 This dashboard provides a high-level overview of VLLM model deployment behavior and key performance indicators. It is designed to help users quickly assess deployment health and identify trends in request activity, token usage, and latency.
 
-This is the "Deployment Overview Dashboard - Level 0" Grafana dashboard, specifically designed for monitoring VLLM (Very Large Language Model) deployments.
-
 ## 2. Audience
 
 **Primary Audience:** Data Scientists, Product Managers
